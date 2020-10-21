@@ -1,0 +1,21 @@
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  margin: 10px;
+  padding: 10px;
+
+  font-style: italic;
+
+  color: white;
+  background-color: grey;
+}
+
+.field .value {
+  font-size: large;
+  font-style: normal;
+
+  color: gold;
+}
